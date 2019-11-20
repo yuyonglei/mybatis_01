@@ -19,8 +19,6 @@
     </environments>
     <!-- 引入映射配置文件 -->
 
-
-
     <mappers>
        <!-- <mapper resource="com/ersc/mapper/UserMapper"/>-->
         <mapper class="com.ersc.mapper.UserMapper"/>
