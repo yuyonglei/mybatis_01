@@ -16,4 +16,5 @@ public interface UserMapper {
      */
     @Select("SELECT * FROM Tb_user")
     List<User> findAll();
+
 }
